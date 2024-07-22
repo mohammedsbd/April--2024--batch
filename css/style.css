@@ -1,3 +1,14 @@
 h1{
     background-color: blue;
 }
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.bro {
+    background-color: yellow;
+    text-align: center;
+
+}
+
